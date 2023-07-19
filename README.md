@@ -26,6 +26,5 @@ Here are some ideas to get you started:
                         <img class="stackImg" src="https://img.shields.io/badge/amazonaws-232F3E?style=for-the-badge&amp;logo=amazonaws&amp;logoColor=white">
                         <img class="stackImg" src="https://img.shields.io/badge/github-181717?style=for-the-badge&amp;logo=github&amp;logoColor=white">
                         <img class="stackImg" src="https://img.shields.io/badge/git-F05032?style=for-the-badge&amp;logo=git&amp;logoColor=white">
-                        <img class="stackImg" src="https://img.shields.io/badge/amazondynamodb-4053D6?style=for-the-badge&amp;logo=amazondynamodb&amp;logoColor=white">
                         <img class="stackImg" src="https://img.shields.io/badge/socket.io-010101?style=for-the-badge&amp;logo=socket.io&amp;logoColor=white">
                       </div>
