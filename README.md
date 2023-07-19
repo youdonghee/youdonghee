@@ -1,4 +1,4 @@
-[[### Hi there 👋
+[[[### Hi there 👋
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=youdonghee&show_icons=true&theme=radical)
 <!--
 **youdonghee/youdonghee** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -27,9 +27,8 @@ Here are some ideas to get you started:
                         <img class="stackImg" src="https://img.shields.io/badge/github-181717?style=for-the-badge&amp;logo=github&amp;logoColor=white">
                         <img class="stackImg" src="https://img.shields.io/badge/git-F05032?style=for-the-badge&amp;logo=git&amp;logoColor=white">
                         <img class="stackImg" src="https://img.shields.io/badge/socket.io-010101?style=for-the-badge&amp;logo=socket.io&amp;logoColor=white">
-  <img src="https://img.shields.io/badge/express-000000?style=for-the-badge&logo=express&logoColor=white">
-   class="stackImg"
+                          <img class="stackImg" src="https://img.shields.io/badge/fontawesome-339AF0?style=for-the-badge&logo=fontawesome&logoColor=white">
 
-                      </div>
+](url)
 ](url)
 ](url)
